@@ -14,3 +14,96 @@
   --rose-800: hsl(332, 51%, 32%);
   --rose-50: hsl(330, 100%, 98%);
 }
+
+body {
+  font-family: Outfit, sans-serif;
+}
+
+.container {
+  padding: 2rem;
+  color: var(--stone-600);
+}
+
+.title {
+  font-family: "Young Serif", serif;
+  font-size: 2.2rem;
+  color: var(--stone-900);
+  margin-bottom: 1rem;
+}
+
+.description {
+  font-size: 1.2rem;
+}
+
+.preparation-card {
+  background-color: var(--rose-50);
+  padding: 1rem;
+  border-radius: 1rem;
+  margin-block: 2rem;
+}
+
+.preparation-card__title {
+  font-size: 20px;
+  color: var(--rose-800);
+  font-weight: 600;
+}
+
+.preparation-card__list {
+  padding: 12px 24px;
+}
+
+.preparation-card__list span,
+.instructions-list span {
+  font-weight: bold;
+}
+
+.sub-title {
+  font-family: "Young Serif", serif;
+  color: var(--brown-800);
+  font-size: 2rem;
+  margin-bottom: 1rem;
+}
+
+.ingredients-list,
+.instructions-list {
+  padding-inline: 2rem;
+}
+
+.ingredients-list li::marker,
+.instructions-list li::marker {
+  color: var(--brown-800);
+}
+
+.ingredients-list li {
+  margin-bottom: 10px;
+}
+
+.instructions-list li {
+  padding-left: 20px;
+  margin-bottom: 10px;
+}
+
+.separator {
+  border: 1px solid var(--stone-150);
+  margin-block: 1.5rem;
+}
+
+.nutrition-table {
+  width: 100%;
+  padding: 1rem 2rem;
+}
+
+.nutrition-table__value {
+  color: var(--brown-800);
+  font-weight: bold;
+}
+
+.nutrition-table tr:not(:last-child) td {
+  border-bottom: 1px solid var(--stone-150);
+  padding-block: 12px;
+}
+
+.attribution {
+  font-size: 16px;
+  padding: 1rem;
+}
