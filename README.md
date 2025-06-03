@@ -8,7 +8,7 @@ This repository contains my solutions to the **Newbie-level challenges** from [F
 
 - [Recipe page](https://github.com/moutafatin/frontendmentor-newbie-challenges/tree/main/recipe-page)
 
-- [Social links profile](https://moutafatin.github.io/frontendmentor-newbie-challenges/social-links-profile/)
+- [Social links profile](https://github.com/moutafatin/frontendmentor-newbie-challenges/tree/main/social-links-profile)
 
 ---
 
