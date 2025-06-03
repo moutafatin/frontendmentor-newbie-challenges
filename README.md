@@ -4,9 +4,11 @@ This repository contains my solutions to the **Newbie-level challenges** from [F
 
 ## 🚀 Challenges Completed
 
+> I'm currently learning frontend development and will continue to update this repo as I complete more projects.
+
 - [Recipe page](https://github.com/moutafatin/frontendmentor-newbie-challenges/tree/main/recipe-page)
 
-> I'm currently learning frontend development and will continue to update this repo as I complete more projects.
+- [Social links profile](https://moutafatin.github.io/frontendmentor-newbie-challenges/social-links-profile/)
 
 ---
 
